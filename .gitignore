@@ -1,0 +1,15 @@
+# Environment variables (keep your API keys safe!)
+.env
+
+# Qdrant local database
+data/qdrant/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Reports (optional — remove this line if you want to include them)
+reports/
